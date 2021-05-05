@@ -1,1 +1,2 @@
 Hello.. this is first sample file created under test folder on local machine
+A new line added to test commit feature
